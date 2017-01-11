@@ -1,0 +1,32 @@
+---
+
+port: 4000
+host: 0.0.0.0
+safe: false
+
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink: /:title ## disables post output
+timezone: null
+lsi: false
+markdown: kramdown
+
+
+### content configuration ###
+title:       "Stitchworks Software"
+keywords:    "Stitchworks, stitch, works, Crochet, charts, design, designer, symbol"
+description: "Stitchworks software graphics design software for symbol crochet"
+source_link: "http://StitchworksSoftware.com"
+favicon:     "img/favicon.ico"
+touch_icon:  "img/apple-touch-icon.png"
+google_analytics_key:
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#f8f8f8'
+  blue:      '#49a7e9'
+
+kramdown:
+  auto_ids:  false
