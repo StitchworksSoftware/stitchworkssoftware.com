@@ -1,5 +1,9 @@
 
 <div>
+    <img src="/img/CC-BY-SA.png">
+    <img src="/img/GPLv3-gray.png">
+</div>
+<div>
     <a href="http://www.ravelry.com/groups/stitch-works-software"><img src= "/img/ravelry-88x31-white.png" border="0"></a>
 
     <a href="http://www.crochetville.org"><img src="/img/cville_pblue.gif" /></a>
